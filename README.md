@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @PriyanshuThakur404
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-PriyanshuThakur404/PriyanshuThakur404 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Hi, I’m @PriyanshuThakur404
+👀 I’m interested in game development, embedded systems, and creative coding
+🌱 I’m currently learning Unity 3D, C++, and Arduino-based IoT systems
+💞️ I’m looking to collaborate on open-world or horror game projects, smart electronics projects, and anything anime-inspired
+📫 How to reach me: [priyanshuthakur9459135127@gmail.com]
+😄 Pronouns: he/him
+⚡ Fun fact: I’m building a smart attendance system and a horror game at the same time—multitasking like a final boss!
