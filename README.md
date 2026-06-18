@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Building cloud, web, and IoT projects since 2024<br><br>📚 I'm currently learning AWS, Docker, CI/CD, Python, and Cloud Technologies<br><br>🎯 Goals: Master Cloud Computing, contribute to open-source projects, and become a Cloud Engineer<br><br>🎲 Fun fact: My projects range from RFID attendance systems to village websites and AI-powered applications</p>
+<p align="left">✨ Building cloud, web, and IoT projects since 2024<br><br>📚 I'm currently learning AWS, Docker, CI/CD, Python, Flask, and Cloud Technologies<br><br>🎯 Goals:<br><br>* Become a Cloud Engineer<br>* Build impactful real-world projects<br>* Strengthen problem-solving and software development skills<br>* Contribute to open-source projects<br><br>🚀 Projects:<br><br>* Smart RFID Attendance System<br>* Gas Detection System using MQ2 Sensor<br>* Temperature-Controlled Fan using Thermistor & MOSFET<br>* Shihli Khad Village Website<br>* ExpenseAI<br>* Customer Churn Prediction Dashboard<br><br>🏆 Certifications:<br><br>* AWS Academy Cloud Foundations<br>* IBM Python for Data Science, AI & Development<br>* Duke University Cloud Computing Foundations<br>* Microsoft Security Essentials<br>* Career Essentials in Generative AI<br>* IoT Devices<br><br>🎲 Fun Fact:<br>I enjoy building practical projects that combine software, cloud technologies, and hardware—from RFID attendance systems to web applications and IoT solutions.<br><br>📫 Connect With Me:<br><br>* LinkedIn: linkedin.com/in/priyanshux<br>* GitHub: github.com/PriyanshuThakur404</p>
 
 ###
 
@@ -58,13 +58,9 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/PriyanshuThakur404/PriyanshuThakur404/snake-output/snake.svg" alt="Snake animation" />
+<br clear="both">
 
-###
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=75&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=onedark"  />
-</div>
+<h3 align="left">Connect...</h3>
 
 ###
 
@@ -75,32 +71,12 @@
   <a href="https://x.com/_priyanshuxx_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   </a>
-  <a href="priyanshux.0" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
   <a href="https://www.instagram.com/priyanshux.0?igsh=bm92cms2emtlZDNv" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  </a>
-  <a href="priyanshuthakur12@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
   </a>
   <a href="thakurpriyanshux@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" height="40" alt="jest logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/storybook/storybook-original.svg" height="40" alt="storybook logo"  />
 </div>
 
 ###
